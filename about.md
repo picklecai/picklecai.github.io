@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Pickecai
-permalink: /about/
+layout: page  
+title: About Pickecai  
+permalink: /about/  
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
