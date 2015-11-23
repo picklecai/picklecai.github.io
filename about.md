@@ -4,7 +4,7 @@ title: About Pickecai
 permalink: /about/  
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/me2015.png" title="About Picklecai" class="profile">
 
 
 Picklecai's blog by github  
