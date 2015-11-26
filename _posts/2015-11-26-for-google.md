@@ -52,7 +52,11 @@ cover:  "/assets/Chrome-Wallpaper.jpg"
 6. Copy as Markdown  
 不用说，以上链接都是用这个来做的。Markdownhere在安装完之后说我所在的地区不支持，呈灰色。所以就改用Copy as Markdown了。   
 
-先装这么多吧。
+7. Search by image(by Google)  
+以图搜图，以前用过简单的搜索框照相机。这个直接在网页里就能用。太好了！
+
+删除Google重定向，试了许多次，都没安装成功，暂时不装了。  
+
 
 ## 系统使用  
 
