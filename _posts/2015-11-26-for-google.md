@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "Picklecai和Google&Chrome的前尘往事"  
+title:  "Google&Chrome：前尘今生"  
 date:   2015-11-26 10:02:30  
 author: Pickle Cai  
 categories: Myself  
@@ -11,7 +11,7 @@ cover:  "/assets/Chrome-Wallpaper.jpg"
 
 ---  
 
-关于Google和Chrome  
+## 关于Google和Chrome  
 
 2001年或者2002年，已经忘了具体时间了，老师说：你们别老到门户网站上去搜索了，告诉你们一个好用的：Google。   
 从那个时刻起，坚定不移地喜欢上Google。那时候并不知道它把门户网站的搜索甩出去十万八千里，就是觉得：一个框，专心搜索，真心不错。  
@@ -26,7 +26,7 @@ cover:  "/assets/Chrome-Wallpaper.jpg"
 
 几个月前，又一次用上Google时，顿时觉得神清气爽，这才是搜索啊！  
 
-新装的Chrome扩展：   
+## 新装的Chrome扩展：   
 
 1. [极简图床](http://yotuku.cn/?utm_source=chromeplugin)   
 不知道会不会图片丢失，暂时用着还好。  
