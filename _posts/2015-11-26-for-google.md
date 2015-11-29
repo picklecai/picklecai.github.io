@@ -1,11 +1,10 @@
----
+﻿---
 layout: post  
 title:  "Google&Chrome：前尘今生"  
 date:   2015-11-26 10:02:30  
 author: Pickle Cai  
 categories: Myself  
 keywords: pickle,google,chrome  
-description: 这是一篇关于google和chrome的使用心得。  
 tags:	pickle   
 cover:  "/assets/Chrome-Wallpaper.jpg"  
 
