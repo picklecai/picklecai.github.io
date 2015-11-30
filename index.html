@@ -19,9 +19,9 @@ layout: default
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
-    <div class="post-content-preview">
-      {{ post.content | strip_html | truncatewords: 150 }}
-    </div>
+    <section>
+    	{{post.description}}
+    </section> 
     <section class="post-meta">
       <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
       <div class="post-categories">
