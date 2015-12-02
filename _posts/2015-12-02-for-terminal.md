@@ -1,17 +1,19 @@
 ---
 layout: post  
-title:  "Terminal：抛弃鼠标"  
+title:  "Terminal，抛弃鼠标：For win党"  
 date:   2015-12-02 08:21:30  
 author: Pickle Cai  
 categories: Myself  
 keywords: pickle,terminal,os  
-description: 这是一篇关于命令行的使用心得。  
+description: 这是一篇关于win环境下常用命令的教程。  
 tags:	pickle   
 cover:  "/assets/funterminal.png"  
 
 ---  
 
 ## 关于命令行  
+
+本篇大部分命令都能在winpowshell下成执行，极少数命令执行时的表现有所不同。不能执行的命令单独列出。
 
 ### preface
 操作系统都是从命令行开始的。20年前，第一批学计算机的那些人，除了金山打字通，就是在输入dos命令。不过那会儿还不叫命令行，因为别无可选，大概是windows3.1或者什么版本吧，学校机房的这些机器，只有很少机器装了。大部分机，就是开机，看彩色的五角星闪过，进入黑乎乎的界面，听从老师的命令，敲下命令，然后在金山打字通或者wps的界面出现后，眼前一亮，哦，终于离开令人生畏的黑色界面了。  
