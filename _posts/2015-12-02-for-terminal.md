@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "Terminal，抛弃鼠标：For win党"  
+title:  "抛弃鼠标：For win党"  
 date:   2015-12-02 08:21:30  
 author: Pickle Cai  
 categories: Myself  
