@@ -3,7 +3,7 @@ layout: post
 title:  "沉浸式的宝宝巴士"  
 date:   2016-03-29 13:11:30  
 author: Pickle Cai  
-categories: Myself  
+categories: Product  
 keywords: pickle,app 
 description: 这是一篇关于kids app的笔记，主要是宝宝巴士。  
 tags:	pickle   
