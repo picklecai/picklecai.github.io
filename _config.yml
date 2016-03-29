@@ -53,6 +53,9 @@ descriptions:
   - cat: Myself  
     desc: "Something about my records."
 
+  - cat: Product
+    desc: "Read the apps."
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
