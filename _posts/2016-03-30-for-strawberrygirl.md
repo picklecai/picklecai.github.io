@@ -7,7 +7,7 @@ categories: Product
 keywords: pickle,app 
 description: 这是关于草莓女孩系列的。  
 tags:	pickle   
-cover:  "/assets/babybus.jpg"  
+cover:  "/assets/strawberrygirl.jpg"  
 
 ---  
 ## 草莓女孩系列  
