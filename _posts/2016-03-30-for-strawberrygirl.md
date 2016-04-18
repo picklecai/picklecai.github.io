@@ -112,3 +112,4 @@ cover:  "/assets/strawberrygirl.jpg"
 
 回到bake shop，打开设置，发现语言选项里没有中文。
 
+总之草莓女孩系列没怎么太懂，不如宝宝巴士那样能理解。
