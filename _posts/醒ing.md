@@ -1,0 +1,29 @@
+
+    ---
+    layout: post  
+    title:  醒ing  
+    date:  2006-03-27 07:17  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+     有很久没有心情写点东西了。近来发现纵容自己的结果就是使自己变傻了，果然应了小时候那句庭训：刀不磨要锈……
+
+
+
+  梦想中的东西总是那么遥远，难道我一直都这么活得散漫？总以为一些东西人力不可为，总以为承诺太渺茫，结果输了的就总是我自己。
+
+
+
+  不如把去年那些涂鸦拿来贴着，说不定就有新的想法了。
+
+
+
+		    
+ 中国教育在线·教育人
+

@@ -1,0 +1,117 @@
+
+    ---
+    layout: post  
+    title:  mindmap简介  
+    date:  2010-04-29 02:58  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+以为看错了，怎么是mindmap不是sitemap呢？查了开始惭愧：这个思维导图不是教育心理学里接触过的概念吗？大概是没有想到它已经发展出了商业化的软件了。发明者托尼·布赞说，事实上大脑思维的结构与现在传统教育中教导学生们的那种“从概念到概念”的线形思维完全相反。他说，大脑思维的结构更像不断生长的树根，是由一个概念向四周扩散，那些向四周扩散的思维又会引出更多的分杈直到无穷。所以Mindmap软件通过绘制Mindmap来帮助大脑思考、整理思路、规划任务。
+
+1.MindManager
+
+这个东西是一个商业软件，我没有用过（也不打算去买），据说是Mindmap软件的开山鼻祖。2.View your mind
+
+http://vym.sf.net
+
+View your mind基于Qt3开发，运行占用资源少（大约占用17M内存）、速度快，而且理论上可以移植到Windows平台上（官方网站没有提供，我自己也没有编译过）。
+
+View your mind实现了Mindmap软件的基本功能：
+
+* 绘制Mindmap
+
+* 支持结点图标
+
+* 支持多种颜色
+
+* 支持多种线形
+
+* 导出HTML/XHTML和多种图形格式
+
+* 多Tab页
+
+
+
+但是也有比较不尽人意的地方：
+
+* 无法设置结点的字体
+
+* 非上下级结点无法联接
+
+* 不支持Mindmap自动重排
+
+* 不支持URL链接
+
+* 不支持附件 3.Freemind
+
+http://freemind.sf.net
+
+Freemind基于Java/Swing开发，直接跨平台。如果需要和Windows用户合作，是个不错的选择。
+
+Freemind比View your mind功能更强：
+
+* 界面美观
+
+* 支持更多的结点图标
+
+* 支持MindManager格式的读取
+
+* 可以设置结点的字体
+
+* 非上下级结点可以联接
+
+* 支持URL链接
+
+* 支持附件
+
+* 导出HTML支持DHTML
+
+
+
+但是Freemind也不是十全十美：
+
+* Java占用资源可不少，我打开Freemind，大概占用40M内存。Mindmap本是一个辅助工具，同时打开的软件很多，这40M显得太大了。
+
+* Swing的速度和风格毕竟和SWT没法比，native支持也困难。尤其和Fvwm结合的时候，我restart Fvwm总是发现Freemind窗口移动到下一个桌面。
+
+* Java在Unix/Linux上配置字体比较麻烦，而Freemind居然傻到字体找不到就死掉──晕，真的不像是masterpiece。不过这一点在Windows上（至少是PWin）应该没问题。
+
+* Mindmap风格单一，结点位置不是完全可定制的。 4.Kdissert
+
+http:http://freehackers.org/~tnagy/kdissert/
+
+Kdissert是基于KDE的，这严重的影响跨平台的属性。
+
+但是KDE的界面实在漂亮，跟着KDE升级到Qt4的Kdissert是几个软件中最漂亮的。
+
+Kdissert运行占用20多M，介于View your mind和Freemind之间，基本可以忍受。
+
+Kdissert的功能更为强大，在Freemind功能的基础上还有以下特性：
+
+* 支持内容树形导航
+
+* 支持附件和外部链接
+
+* 支持2种方式的Mindmap自动重排
+
+* 可以导入Freemind格式文件
+
+* 可以导出Java Applet/LaTeX/OpenOffice等格式Mindmap软件百花齐放，从使用的角度看基本都属于可以应用的成熟阶段。除了MindManager外，其它软件都是基于GPL发行。如果作为个人工具，任何一个软件都是不错的。
+
+在Linux平台上，选择的范围大一些。
+
+ 
+
+来源：http:http://www.linuxsir.org/bbs/showthread.php?t=230129
+
+						
+
+		    
+ 中国教育在线·教育人
+

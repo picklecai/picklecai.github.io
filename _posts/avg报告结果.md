@@ -1,0 +1,221 @@
+
+    ---
+    layout: post  
+    title:  avg报告结果  
+    date:  2009-03-17 11:40  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+AVG Anti-Spyware - 扫描报告
+
+---------------------------------------------------------
+
+
+
+ + 创建于: 23:35:40 2009-3-17
+
+
+
+ + 扫描结果: 
+
+
+
+ 
+
+
+
+HKLMSOFTWAREMicrosoftInternet ExplorerExtensions{c95fe080-8f5d-11d2-a20b-00aa003c157a} -> Adware.Generic : 已忽略。
+
+HKUS-1-5-21-1139839881-1661357321-1385821318-500SoftwareMicrosoftWindowsCurrentVersionExtStats{C95FE080-8F5D-11D2-A20B-00AA003C157A} -> Adware.Generic : 已忽略。
+
+
+
+
+
+::报告结束
+
+
+
+
+
+AVG Anti-Spyware - 扫描报告
+
+---------------------------------------------------------
+
+
+
+ + 创建于: 23:53:10 2009-3-17
+
+
+
+ + 扫描结果: 
+
+
+
+ 
+
+
+
+HKLMSOFTWAREMicrosoftInternet ExplorerExtensions{c95fe080-8f5d-11d2-a20b-00aa003c157a} -> Adware.Generic : 已忽略。
+
+HKUS-1-5-21-1139839881-1661357321-1385821318-500SoftwareMicrosoftWindowsCurrentVersionExtStats{C95FE080-8F5D-11D2-A20B-00AA003C157A} -> Adware.Generic : 已忽略。
+
+C:WINDOWSsystem32setupol_3247_0366.exe -> Not-A-Virus.Adware.Boran : 已忽略。
+
+
+
+
+
+::报告结束
+
+
+
+ 
+
+
+
+--------------------------------------------------------
+
+AVG Anti-Spyware - 扫描报告
+
+---------------------------------------------------------
+
+
+
+ + 创建于: 小菜的上午 07:29:26 2009-3-18
+
+
+
+ + 扫描结果: 
+
+
+
+ 
+
+
+
+C:Program FilesbtnExpertbdsetup.exe/BaiduBar.dll -> Adware.Baidu : 没有动作发生。
+
+C:Program FilesTTODCAJViewer 6.0OCRtwrecc.dll -> Backdoor.RBot : 没有动作发生。
+
+C:Program FilesTENCENTQQTXPlatform.exe -> Downloader.Agent.fgm : 没有动作发生。
+
+E:Myself友人文档礼物1.rar/à???′ò?aà????ù′ò?a?1ê?′ò?a?ó×??a?àD??ò￡?′ò?a?íóDá???2?òaò??a?ú?????aí?D|?1óD??o?o???óD??óD±??￡μ??D??????μ??á2??á??óD??í·??￡?óD??óDμ?ê§í???￡???ò????áóDá?°é￡??1ê???óD￡??a??óDá?°é???′?1??óD°?￡??aê?×?oóò?2?á?×?o?×?±?,2?òa?¤?ˉ??!.EXE -> Downloader.Agent.fgm : 没有动作发生。
+
+E:2Tuesday管理学管理小故事精髓百例.exe -> Downloader.Agent.xgw : 没有动作发生。
+
+E:Myself电子书典籍全集选集金庸作品集真正完整版2.0最终版.exe -> Downloader.Agent.xgw : 没有动作发生。
+
+E:Myself友人文档圣诞节的第一份礼物.rar/ê￥μ??úμ?μúò?·Yà???.exe -> Downloader.Small.xyq : 没有动作发生。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP521A0176428.EXE -> Heuristic.Win32.Backdoor4 : 没有动作发生。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP521A0176496.EXE -> Heuristic.Win32.Backdoor4 : 没有动作发生。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP530A0180030.exe -> Not-A-Virus.Adware.Boran : 没有动作发生。
+
+C:Program FilesPhotoshop CS2key.exe -> Trojan.Agent.cj : 没有动作发生。
+
+
+
+
+
+::报告结束
+
+
+
+AVG Anti-Spyware - 扫描报告
+
+---------------------------------------------------------
+
+
+
+ + 创建于: 小菜的上午 09:39:14 2009-3-18
+
+
+
+ + 扫描结果: 
+
+
+
+ 
+
+
+
+C:Program FilesbtnExpertbdsetup.exe/BaiduBar.dll -> Adware.Baidu : 已清除。
+
+C:Program FilesTTODCAJViewer 6.0OCRtwrecc.dll -> Backdoor.RBot : 已清除。
+
+C:Program FilesTENCENTQQTXPlatform.exe -> Downloader.Agent.fgm : 已清除。
+
+E:Myself友人文档礼物1.rar/à???′ò?aà????ù′ò?a?1ê?′ò?a?ó×??a?àD??ò￡?′ò?a?íóDá???2?òaò??a?ú?????aí?D|?1óD??o?o???óD??óD±??￡μ??D??????μ??á2??á??óD??í·??￡?óD??óDμ?ê§í???￡???ò????áóDá?°é￡??1ê???óD￡??a??óDá?°é???′?1??óD°?￡??aê?×?oóò?2?á?×?o?×?±?,2?òa?¤?ˉ??!.EXE -> Downloader.Agent.fgm : 已清除。
+
+E:2Tuesday管理学管理小故事精髓百例.exe -> Downloader.Agent.xgw : 已清除。
+
+E:Myself电子书典籍全集选集金庸作品集真正完整版2.0最终版.exe -> Downloader.Agent.xgw : 已清除。
+
+E:Myself友人文档圣诞节的第一份礼物.rar/ê￥μ??úμ?μúò?·Yà???.exe -> Downloader.Small.xyq : 已清除。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP521A0176428.EXE -> Heuristic.Win32.Backdoor4 : 已清除。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP521A0176496.EXE -> Heuristic.Win32.Backdoor4 : 已清除。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP530A0180030.exe -> Not-A-Virus.Adware.Boran : 已清除。
+
+C:Program FilesPhotoshop CS2key.exe -> Trojan.Agent.cj : 已清除。
+
+
+
+
+
+::报告结束
+
+
+
+AVG Anti-Spyware - 扫描报告
+
+---------------------------------------------------------
+
+
+
+ + 创建于: 12:09:02 2009-3-18
+
+
+
+ + 扫描结果: 
+
+
+
+ 
+
+
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP533A0180175.exe/BaiduBar.dll -> Adware.Baidu : 已清除。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP533A0180174.dll -> Backdoor.RBot : 已清除。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP533A0180173.exe -> Downloader.Agent.fgm : 已清除。
+
+C:System Volume Information_restore{916BBF32-458B-4D8B-B688-6F4BF15CB36F}RP533A0180172.exe -> Trojan.Agent.cj : 已清除。
+
+
+
+
+
+::报告结束
+
+
+
+ 
+
+
+
+		    
+ 中国教育在线·教育人
+

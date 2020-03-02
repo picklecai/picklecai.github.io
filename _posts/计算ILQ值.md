@@ -1,0 +1,57 @@
+
+    ---
+    layout: post  
+    title:  计算ILQ值  
+    date:  2009-08-18 05:54  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+文章来源：http:http://www.seocompany.ca/directory/top-web-directories.html
+
+
+
+ 
+
+
+
+SEO专家认为PR值没有太大参考价值了。现在用外部链接的质量来衡量。即在  dir.yahoo.com, DMOZ, EDU and GOV中有多少指向你的网站的外部链接。
+
+
+
+外部链接质量：Inbound Link Quality ，简称ILQ。
+
+
+
+每个Yahoo links (you get an average of 15 links per Yahoo Directory submission)得到1分；每个DMOZ link得到30分；每个EDU link 得到45分；每个GOV link 得到67分。
+
+
+
+数量权重求和，所得即ILQ Rating。
+
+
+
+以http:http://www.stanfordmaterials.com为例，测试结果是：Y! 7；DMOZ 1 |；edu 8；gov 1。于是7×1+1×30+8×45+1×67=464。其ILQ值即为464。
+
+
+
+ 
+
+
+
+测试工具网址：http:http://www.seocompany.ca/directory/top-web-directories.html。
+
+
+
+注意：该值只针对网站，而非针对网页。
+
+
+
+		    
+ 中国教育在线·教育人
+

@@ -1,0 +1,131 @@
+
+    ---
+    layout: post  
+    title:  Google：富含宝藏的迷宫  
+    date:  2009-12-30 10:19  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+几件小事，记录一下：
+
+
+
+
+
+突然发现Google对有些网站留cache链接，而有些不留。其中有什么区别？ 
+
+计算博客的Google收录数，倒是一直没来做这件事情。 
+
+关于外链数目的事情，还是没去验证。
+
+Google一直都是一个富含宝藏的迷宫，令人着迷。
+
+
+
+ 
+
+
+
+2010-01-05：
+
+
+
+ 
+
+
+
+在做site:时，突然想起来进入option选项，不知道左侧时间是什么时间，为什么只要加上时间限制，搜索结果就只有6条。哪怕是从一开始到现在的所有时间。但如果不加，搜索结果就有179条。看上去这不是快照的时间。
+
+
+
+另外，为什么有的结果有cache链接，有的没有呢？我的猜想是：有这个链接，表示它在快照库里。没有这个链接，表示不在。会不会是既然能显示出来，就说明都在快照库里啊？
+
+
+
+ 
+
+
+
+从飘易博客里发现了一个概念：google sitelink。
+
+
+
+
+
+“Google Sitelinks是什么？ 
+
+Google Sitelinks是指Google搜索结果页面中第一个搜索结果的网站描述信息下方显示出的该网站其他页面的文字链接。 
+
+
+
+Google Sitemaps里对sitelinks有如下说明： 
+
+Google Sitelinks一直被认为是高质量网站的一种表现，它意味着能够产生sitelinks的站点在搜索引擎上具有很高的权重。在以前，人们想方设法要实现sitelinks，但由于Google未透露任何信息，而是自动产生，因此大部分站点在Google搜索结果中都无法形成sitelinks；而如今，Google将其“平民化”了。”
+
+
+
+这段解释文字引自：http:http://www.cqzol.com/fabrication/94665.html。（其实很多网站都这样说）
+
+
+
+ 
+
+
+
+在搜索苦丁茶园地时，就是这样的结果：show more results from pickle.blog.edu.cn
+
+
+
+
+
+
+
+飘易认为：
+
+
+
+“今天在 google.cn 里搜索飘易或飘易博客时，出现了Google Sitelinks，俗称站内链接列表。而搜索另外一个我的英文名flymorn时，没有出现sitelinks。看来，“飘易”或“飘易博客”的搜索量（重要性）远比我的英文名 flymorn要大的多。”
+
+
+
+我觉得不能说明搜索量或者重要性吧？只能说相关性更大。
+
+
+
+ 
+
+
+
+2010年1月28日：纠正一下，上面所认为的这个sitelinks是错误的，这个只是折叠式搜索结果。真正的sitelinks是这个样子：
+
+
+
+
+
+
+
+了解一下：sitelinks是排名第一之后的下一个目标。
+
+
+
+ 
+
+
+
+另外有张图，也是转自飘易（他转自别人）：
+
+
+
+
+
+
+
+		    
+ 中国教育在线·教育人
+

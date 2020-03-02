@@ -1,0 +1,205 @@
+
+    ---
+    layout: post  
+    title:  关于app……  
+    date:  2009-03-23 04:38  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+appinit_dlls是什么？ 
+
+
+
+appinit_dlls存在路径在windowsNT/cv/windows/APPInit_DLLs ，是注册表内的一个键值，它可以为任一个进程调用一个dll列表。appinit_dlls是不是病毒呢？查看appinit_dlls 的数值是什么，如果不是APIHookDll.dll，说明你中毒了，它不是文件,不能粉碎,只能将其内容清空。可以参考以下办法清除该病毒。
+
+
+
+appinit_dlls病毒DLL型后缀病毒的手工杀毒的方法教程： 
+
+
+
+   这类病毒大多是后门病毒，这类病毒一般不会把自己暴露在进程中的，所以说特别隐蔽，比较不好发现。启动DLL后门的载体EXE是不可缺少的，也是非常重要的，它被称为：Loader。如果没有Loader，那DLL后门如何启动呢？因此，一个好的DLL后门会尽力保护自己的Loader不被查杀。Loader的方式有很多，可以是为我们的DLL后门而专门编写的一个EXE文件；也可以是系统自带的Rundll32.exe和 Svchost.exe，即使停止了Rundll32.exe和Svchost.exeDLL后门的主体还是存在的。现在大家也许对DLL有了个初步的了解了，但是不是后缀是DLL就是病毒哦，也不要因为系统有过多的Rundll32.exe和Svchost.exe进程而担心，因为他们不一定就是病毒，所以说这个病毒比较隐蔽，下边来介绍几种判别办法：
+
+
+
+
+
+Svchost.exe的键值是在“HKEY_LOCAL_MACHINESoftwareMicrosoftWindowsNT 
+
+CurrentVersionSvchost”每个键值表示一个独立的Svchost.exe组。
+
+微软还为我们提供了一种察看系统正在运行在 Svchost.exe列表中的服务的方法。以Windows XP为例：在“运行”中输入：cmd，然后在命令行模式中输入：tasklist /svc。如果使用的是Windows 2000系统则把前面的“tasklist /svc”命令替换为：“tlist -s”即可。如果你怀疑计算机有可能被病毒感染，Svchost.exe的服务出现异常的话通过搜索 Svchost.exe文件就可以发现异常情况。一般只会找到一个在：“C:WindowsSystem32”目录下的Svchost.exe程序。如果你在其他目录下发现Svchost.exe程序的话，那很可能就是中毒了。 
+
+还有一种确认Svchost.exe是否中毒的方法是在任务管理器中察看进程的执行路径。但是由于在Windows系统自带的任务管理器不能察看进程路径，所以要使用第三方的进程察看工具。比如Windows优化大师中的Windows 进程管理 2.5。这样，可以发现进程到底饔昧耸裁碊LL文件. 
+
+普通后门连接需要打开特定的端口，DLL后门也不例外，不管它怎么隐藏，连接的时候都需要打开端口。我们可以用netstat –an来查看所有TCP/UDP端口的连接，以发现非法连接。大家平时要对自己打开的端口心中有数，并对netstat –an中的state属性有所了解。当然，也可以使用Fport来显示端口对应的进程，这样，系统有什么不明的连接和端口，都可以尽收眼底。 
+
+最关键的方法对比法。安装好系统和所有的应用程序之后，备份system32目录下的EXE和DLL文件：打开CMD，来到 WINNTsystem32目录下，执行：dir *.exe>exe.txt & dir *.dll>dll.txt，这样，就会把所有的EXE和DLL文件备份到exe.txt和dll.txt文件中；日后，如发现异常，可以使用相同的命令再次备份EXE和DLL文件(这里我们假设是exe0.txt和dll0.txt)，并使用：fc exe.txt exe0.txt>exedll.txt & fc dll.txt dll0.txt>exedll.txt，其意思为使用FC命令比较两次的EXE文件和DLL文件，并将比较结果保存到exedll.txt文件中。通过这种方法，我们就可以发现多出来的EXE和DLL文件，并通过文件大小，创建时间来判断是否是DLL后门。
+
+DLL型病毒的清除方法
+
+
+
+方法一——
+
+
+
+1/ 在确定DLL病毒的文件的话请尝试下边方法 
+
+移除方法： 
+
+1. 开始——运行——输入"Regedit" 
+
+2. 搜索"*.dll" 
+
+3. 删除搜索到的键值。 
+
+4. 重启 
+
+5. 转到C:WindowsSystem32 
+
+6. 删除*.dll 
+
+2/到注册表下列地方寻找DLL的踪迹 
+
+HKEY_LOCAL_MACHINE/ SOFTWARE/ Microsoft/ WindowsNT/ Currentversion/ Svchost 
+
+3/如果上边的地方都找不到的话建议使用优化大师进程显示工具 对 RUNDLL32.EXE和SVCHOST.EXE里边运行的DLL程序进行核实找到病毒文件对其进行结束 然后在对他进行删除 建议使用第1种方法是非常有效的 
+
+
+
+ 
+
+
+
+方法二—— 
+
+
+
+一、须准备的刑具 
+
+Windows清理助手;恶意软件清理助手;360安全卫士 
+
+二、注册表启动命令：REGEDIT 
+
+三、磨刀霍霍卷袖动手——杀！！！！ 
+
+1、启动注册表： 
+
+开始——运行——键入：REGEDIT——打开注册表 
+
+按照360提示的位置：HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionWindows 找到“AppInit_DLLs” 
+
+把“AppInit_DLLs”改成“0”（注意：删除没有用，会自动重建。） 
+
+2、分别运行“Windows清理助手”和“恶意软件清理助手”清理系统 
+
+“恶意软件清理助手”清理：“恶意软件清理”、“注册表项清理”、“临时文件清理” 
+
+其中“注册表项清理”我没有耐心清理完 
+
+因为有几项好像清理不掉 
+
+“Windows清理助手”使用了“定制扫描”项 
+
+四、清理完毕，重启电脑 
+
+一切OK！ 
+
+
+
+ 
+
+
+
+方法三——
+
+
+
+1.安全卫士360 清除恶意插件和木马（你会发现AppInit_DLLs - tlcpri.dll清除不掉，不要管它）
+
+2.用sreng修复启动项和包含×××pri.dll的所有项目
+
+3.重新启动到安全模式，删除Windowssystem32下的所有的×××pri.dll和×××ini.dll（比如tlcpri.dll的时候就会有个tlcini.dll）
+
+
+
+1.用sreng查找出*.pri的病毒文件
+
+2.到安全模式下强删除
+
+3.改回AppInit_DLLs 
+
+4.删除*Pri的注册表文件项
+
+5.用杀软全盘查描,因为此病毒带木马下载
+
+
+
+
+
+方法四—— 
+
+
+
+1、启动注册表： 
+
+开始——运行——键入：REGEDIT——打开注册表 
+
+按照360提示的位置：HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionWindows 找到“AppInit_DLLs” 
+
+把“AppInit_DLLs”改成“0”（注意：删除没有用，会自动重建。） 
+
+
+
+2、分别运行“Windows清理助手”和“恶意软件清理助手”清理系统 
+
+
+
+ 
+
+
+
+一款专杀工具——qhbpri木马（AppInit_DLLs）专杀工具 
+
+【qhbpri木马简介】 
+
+
+
+1.变名，变形，大量自我复制（*pri.dll，前面为变名字母），躲避杀毒软件查杀，普通方式无法彻底清除 
+
+2.非法修改Windows注册表AppInit_DLLs达到优先启动的效果。 
+
+3.隐蔽插入到其他程序进程，普通方式难以查杀。 
+
+4.下载其他木马，与木马指定的服务器通讯，泄露用户隐私，盗窃网络财产帐号。 
+
+5. 360安全卫士主程序检测到【qhbpri木马】和【未知启动项AppInit_DLLs正在被装入】C:WINDOWSsystem32kvdxbma.dll 
+
+
+
+qhbpri木马专杀（9月4日更新版本）： 
+
+
+
+HTTP下载：http:http://dl.360safe.com/killer_qhbpri.exe 
+
+
+
+ 
+
+
+
+ps.最后发现我的app的原因居然真的是因为瑞星卡卡助手做的。卸载了瑞星卡卡，就不再自动改这个键值了。唉，简直是一件聪明反被聪明误的事情啊。
+
+
+
+		    
+ 中国教育在线·教育人
+

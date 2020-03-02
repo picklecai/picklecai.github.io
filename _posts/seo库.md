@@ -1,0 +1,83 @@
+
+    ---
+    layout: post  
+    title:  seo库  
+    date:  2010-02-22 05:26  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+前天说得模糊，列表：
+
+
+
+网站——
+
+
+
+
+
+http://www.seomoz.org
+
+
+
+http:http://www.searchenginejournal.com/
+
+
+
+http:http://searchenginewatch.com/
+
+
+
+http:http://www.seochat.com/
+
+
+
+专家——
+
+
+
+
+
+Danny Dover: Search Engine Optimization (SEO) Secrets (due out April 2010)
+
+
+
+Rand Fish:貌似专门写入门级指导文。
+
+
+
+SEOmoz上超多的工具——
+
+
+
+
+
+测试外链：http://www.opensiteexplorer.org
+
+
+
+查排名（这个很多地方都有）：http:http://www.seomoz.org/rank-tracker
+
+
+
+目标词分析：http:http://www.seomoz.org/term-target。这个有提示说：As a non-premium member, you are limited to 1 report every 24 hours.
+
+
+
+测试域名强度： http:http://www.seomoz.org/trifecta。同样，一天只能生成一个报告（好郁闷啊）
+
+
+
+ 
+
+
+
+		    
+ 中国教育在线·教育人
+
