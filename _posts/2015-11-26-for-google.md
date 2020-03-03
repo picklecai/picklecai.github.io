@@ -3,7 +3,7 @@ layout: post
 title:  "Google&Chrome：前尘今生"  
 date:   2015-11-26 10:02:30  
 author: Pickle Cai  
-categories: Myself  
+categories: Tech  
 keywords: pickle,google,chrome  
 description: 这是一篇关于google和chrome的使用心得。  
 tags:	pickle   
@@ -75,3 +75,4 @@ cover:  "/assets/Chrome-Wallpaper.jpg"
 
 ### Github&Markdown  
 装上了Github客户端，才发现github内容更新如此方便。Markdown客户端程序安装之前，起初是用马克飞象的，但是超过10次之后就要收费了，于是又用马华。现在装了Markdownpad2，真心好用。感谢[Az](http://azeril.me/)！
+

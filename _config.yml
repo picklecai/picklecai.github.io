@@ -50,8 +50,8 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-  - cat: Myself  
-    desc: "Something about my records."
+  - cat: Tech  
+    desc: "技术类文字."
 
   - cat: Product
     desc: "Read the apps."

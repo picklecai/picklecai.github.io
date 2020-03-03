@@ -3,7 +3,7 @@ layout: post
 title:  "抛弃鼠标：For win党"  
 date:   2015-12-02 08:21:30  
 author: Pickle Cai  
-categories: Myself  
+categories: Tech  
 keywords: pickle,terminal,os  
 description: 这是一篇关于win环境下常用命令的教程。  
 tags:	pickle   
@@ -161,3 +161,4 @@ ls的其他几个用法在powshell中不可用：
 ![](http://7xotr7.com1.z0.glb.clouddn.com/15-12-2/68352055.jpg)
 在win powshell下：  
 ![](http://7xotr7.com1.z0.glb.clouddn.com/15-12-2/13184512.jpg) 
+

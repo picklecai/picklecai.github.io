@@ -3,7 +3,7 @@ layout: post
 title:  "Google URL 语法"
 date:  2009-10-21 05:51:00
 author: Pickle Cai  
-categories: EduBlog  
+categories: Tech  
 keywords: 
 description:   
 tags:	pickle   
@@ -166,3 +166,5 @@ hl语言域的值
  
 
 		    
+
+

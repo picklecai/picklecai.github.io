@@ -3,7 +3,7 @@ layout: post
 title:  "不是神话：小白怎么出书"  
 date:   2015-12-10 08:21:30  
 author: Pickle Cai  
-categories: Myself  
+categories: Tech  
 keywords: pickle,gitbook  
 description: 这是一篇关于gitbook的笔记，也会提到其他一些工具和平台。  
 tags:	pickle   
@@ -68,3 +68,4 @@ GitBook桌面版和网页版功能差异不大，因为GitBook网页端打开不
 ## Tools  
 sigil：偏重于排版。  
 calibre：主要用于转换格式，是开源软件。  
+

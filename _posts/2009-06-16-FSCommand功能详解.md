@@ -3,7 +3,7 @@ layout: post
 title:  "FSCommand功能详解"
 date:  2009-06-16 11:47:00
 author: Pickle Cai  
-categories: EduBlog  
+categories: Tech  
 keywords: 
 description:   
 tags:	pickle   
@@ -44,3 +44,5 @@ FlashPlayer的指令有（只能在独立播放器时使用）：
 
 
 		    
+
+

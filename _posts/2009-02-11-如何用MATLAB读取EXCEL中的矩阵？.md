@@ -3,7 +3,7 @@ layout: post
 title:  "如何用MATLAB读取EXCEL中的矩阵？"
 date:  2009-02-11 02:49:00
 author: Pickle Cai  
-categories: EduBlog  
+categories: Tech  
 keywords: 
 description:   
 tags:	pickle   
@@ -26,3 +26,5 @@ help xlsread，还可以考虑exlink
 
 
 		    
+
+
