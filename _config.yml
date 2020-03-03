@@ -68,6 +68,9 @@ descriptions:
   - cat: Education 
     desc: "教育学感想随笔。"
 
+  - cat: Reprinted 
+    desc: "转载的文章。"
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
