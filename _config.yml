@@ -59,6 +59,9 @@ descriptions:
   - cat: EduBlog 
     desc: "教育人博客内容转移阵地 ，感谢网友帮忙导出内容。"
 
+  - cat: Literature 
+    desc: "文学类文字。"
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
