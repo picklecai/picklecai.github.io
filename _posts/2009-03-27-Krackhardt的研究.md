@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Krackhardt的研究  
-date:  2009-03-27 09:10  
+title:  '"' + Krackhardt的研究  + '"'
+date:  2009-03-27 09:10 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

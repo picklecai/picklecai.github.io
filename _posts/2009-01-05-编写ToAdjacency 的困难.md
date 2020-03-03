@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  编写ToAdjacency 的困难  
-date:  2009-01-05 09:44  
+title:  '"' + 编写ToAdjacency 的困难  + '"'
+date:  2009-01-05 09:44 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Social bookmarks  
-date:  2009-09-16 03:25  
+title:  '"' + Social bookmarks  + '"'
+date:  2009-09-16 03:25 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

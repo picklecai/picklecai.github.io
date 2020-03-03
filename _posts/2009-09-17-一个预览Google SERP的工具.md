@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  一个预览Google SERP的工具  
-date:  2009-09-17 03:25  
+title:  '"' + 一个预览Google SERP的工具  + '"'
+date:  2009-09-17 03:25 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

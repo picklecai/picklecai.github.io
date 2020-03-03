@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Stephanie says——初次接触  
-date:  2007-09-04 10:53  
+title:  '"' + Stephanie says——初次接触  + '"'
+date:  2007-09-04 10:53 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

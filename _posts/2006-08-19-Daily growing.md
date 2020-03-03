@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Daily growing  
-date:  2006-08-19 09:33  
+title:  '"' + Daily growing  + '"'
+date:  2006-08-19 09:33 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

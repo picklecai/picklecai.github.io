@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  不明白nominal, ordinal, and interval 的并称  
-date:  2008-10-21 06:17  
+title:  '"' + 不明白nominal, ordinal, and interval 的并称  + '"'
+date:  2008-10-21 06:17 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

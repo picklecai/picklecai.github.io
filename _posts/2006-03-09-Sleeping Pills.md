@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Sleeping Pills  
-date:  2006-03-09 09:18  
+title:  '"' + Sleeping Pills  + '"'
+date:  2006-03-09 09:18 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

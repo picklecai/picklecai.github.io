@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  如何用MATLAB读取EXCEL中的矩阵？  
-date:  2009-02-11 02:49  
+title:  '"' + 如何用MATLAB读取EXCEL中的矩阵？  + '"'
+date:  2009-02-11 02:49 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

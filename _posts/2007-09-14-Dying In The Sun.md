@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Dying In The Sun  
-date:  2007-09-14 01:12  
+title:  '"' + Dying In The Sun  + '"'
+date:  2007-09-14 01:12 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

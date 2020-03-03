@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  画图问题：ucinet和netdraw  
-date:  2009-02-20 12:39  
+title:  '"' + 画图问题：ucinet和netdraw  + '"'
+date:  2009-02-20 12:39 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

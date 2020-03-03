@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  会用sumif和sumifs了  
-date:  2009-08-26 11:53  
+title:  '"' + 会用sumif和sumifs了  + '"'
+date:  2009-08-26 11:53 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

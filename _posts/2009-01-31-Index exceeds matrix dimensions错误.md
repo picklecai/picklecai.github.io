@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Index exceeds matrix dimensions错误  
-date:  2009-01-31 04:10  
+title:  '"' + Index exceeds matrix dimensions错误  + '"'
+date:  2009-01-31 04:10 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

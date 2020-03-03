@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  如何在Windows XP 家庭版中安装IIS  
-date:  2007-06-15 04:52  
+title:  '"' + 如何在Windows XP 家庭版中安装IIS  + '"'
+date:  2007-06-15 04:52 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  A freshmanish girl!  
-date:  2006-06-30 08:22  
+title:  '"' + A freshmanish girl!  + '"'
+date:  2006-06-30 08:22 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

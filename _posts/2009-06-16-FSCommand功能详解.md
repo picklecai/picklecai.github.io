@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  FSCommand功能详解  
-date:  2009-06-16 11:47  
+title:  '"' + FSCommand功能详解  + '"'
+date:  2009-06-16 11:47 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

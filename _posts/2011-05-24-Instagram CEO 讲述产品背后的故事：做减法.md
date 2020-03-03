@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Instagram CEO 讲述产品背后的故事：做减法  
-date:  2011-05-24 10:26  
+title:  '"' + Instagram CEO 讲述产品背后的故事：做减法  + '"'
+date:  2011-05-24 10:26 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

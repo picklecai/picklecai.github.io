@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  什么是nofollow：兼介绍一些meta标签  
-date:  2010-01-25 03:32  
+title:  '"' + 什么是nofollow：兼介绍一些meta标签  + '"'
+date:  2010-01-25 03:32 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  重读Brad Callen，5条最新seo心得  
-date:  2009-11-26 05:44  
+title:  '"' + 重读Brad Callen，5条最新seo心得  + '"'
+date:  2009-11-26 05:44 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

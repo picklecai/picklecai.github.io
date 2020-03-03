@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  Bacon和Pickle：小结第一周  
-date:  2010-03-01 12:28  
+title:  '"' + Bacon和Pickle：小结第一周  + '"'
+date:  2010-03-01 12:28 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 

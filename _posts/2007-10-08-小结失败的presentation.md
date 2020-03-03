@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:  小结失败的presentation  
-date:  2007-10-08 09:42  
+title:  '"' + 小结失败的presentation  + '"'
+date:  2007-10-08 09:42 + ":00" 
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
