@@ -62,6 +62,12 @@ descriptions:
   - cat: Literature 
     desc: "文学类文字。"
 
+  - cat: ReadNote 
+    desc: "读书笔记。"
+
+  - cat: Education 
+    desc: "教育学感想随笔。"
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
