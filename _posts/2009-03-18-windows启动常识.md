@@ -1,0 +1,59 @@
+
+    ---
+    layout: post  
+    title:  windows启动常识  
+    date:  2009-03-18 08:18  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+2009年3月18日上午8：18
+
+
+
+   任何操作系统都会在启动时自动运行一些程序，用以初始化系统环境或额外功能等，这些被允许跟随系统启动而运行的程序被放置在专门的区域里供系统启动时加载运行，这些区域就是“启动项”，不同的系统提供的“启动项”数量也不同.
+
+    对于Win9x来说，它提供了至少5个“启动项”:
+
+
+
+    DOS环境下的Autoexec.bat、Config.sys，
+
+    Windows环境下的“启动”程序组、注册表的2个Run项和1个RunServices项，分别是: 
+
+
+
+
+
+HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionRun;
+
+
+
+HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionRun;
+
+HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionRunServices
+
+
+
+ 到了2000/XP系统时代，DOS环境被取消，却新增了一种称之为“服务”的启动区域，注册表也在保持原项目不变的基础上增加了2个“启动项”: 
+
+    项目,键名
+
+
+
+
+
+HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionWindows AppInit_DLLs 
+
+HKEY_CURRENT_USERSoftwareMicrosoftWindows NTCurrentVersionWindows run
+
+
+
+		    
+ 中国教育在线·教育人
+

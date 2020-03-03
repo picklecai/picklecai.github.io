@@ -1,0 +1,37 @@
+
+    ---
+    layout: post  
+    title:  Related现身  
+    date:  2010-01-19 09:58  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+我的书签们一向被Yahoo所鄙视，几乎不收录。一直也不知道为什么。以为是更新后未提交的原因。自从上次发现了blogping的事情之后，每一个我都这样想了。
+
+
+
+刚才无意中发现，搜索结果中直接有related content from***：
+
+
+
+
+
+
+
+在Google中一直发现这个related语法不是很管用，没想到在Yahoo中误打误撞地碰上了，并且相当管用。因为这个被related出来的书签，也是我的。
+
+
+
+所以得做一个工作：多收藏一些其他网址，尽量区分每一个帐号。完事再提交。
+
+
+
+		    
+ 中国教育在线·教育人
+

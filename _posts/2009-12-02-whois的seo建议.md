@@ -1,0 +1,61 @@
+
+    ---
+    layout: post  
+    title:  whois的seo建议  
+    date:  2009-12-02 10:32  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+还是把从whois.domain那里学来的都抄在一起吧。
+
+
+
+
+
+
+
+Not all images on page have width & height dimensions: Make sure all img tags have height & width attributes.
+
+
+
+Title relevancy is less than 100%: The terms used in the page title should be found somewhere on the page.
+
+
+
+The page contains more than 10 meta keywords: Reduce the number keywords and make them accurate.
+
+Keyword phrases contain too many terms: Try to use keywords that are composed of only one or two terms.
+
+
+
+Link URLs contain querystrings: Rewrite links to work without using querystrings.
+
+第一项我一向选择忽略。image有固定宽高很重要吗？这项到底有什么用处，日后再求证。
+
+
+
+第二项说明title里的词，起码要出现在页面上。这就不难解释为什么材料的该项分数不高了。
+
+
+
+第三项说meta keywords数目太多了。言外之意似乎是不超过10个应该是可以接受的。
+
+
+
+第四项仍然是说keywords。一直不明白terms是什么。从这句话看来，应该是单词数目。所以这个网站没有像ranknow一样，傻傻地按单词来判断关键词。幸亏没以ranknow的打分标准来更改。这个更合理一些。长尾词怎么能都是单词呢？当然以词组为主。所以附带也明白了多少terms带link的那项数据。
+
+
+
+最后一项我查阅了好久，现在想来，应该是询盘页上的“？”。因为搜索引擎喜欢静态页面，所以能表征页面是动态的一切因素当然是越少越好。不过对于产品站来说，没有询盘页就没有意义了。所以这项我也得忽略不计。
+
+
+
+		    
+ 中国教育在线·教育人
+

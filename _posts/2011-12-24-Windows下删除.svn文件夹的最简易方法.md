@@ -1,0 +1,27 @@
+
+    ---
+    layout: post  
+    title:  Windows下删除.svn文件夹的最简易方法  
+    date:  2011-12-24 05:41  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+来源：http://www.subversion.org.cn/?viewnews-72我十分喜欢SVN的方便，无论是在Linux下的命令行操作还是在Windows下的资源管理器插件，都十分简易。而且 code.google.com也支持SVN来供我们发布、维护开源项目（例如我的WordPress主题TES）然而，久而久之，SVN文件夹下会有许 多.svn的“meta数据”。这些数据久而久之会带来不少麻烦。尤其是基于资源管理器交互的Windows系统。
+
+今天看了Jon Galloway的一个注册表脚本，十分方便，分享如下：
+
+建立一个文本文件，取名为kill-svn-folders.reg（扩展名由txt改为reg），内容如下：
+
+Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINESOFTWAREClassesFoldershellDeleteSVN] @="Delete SVN Folders"[HKEY_LOCAL_MACHINESOFTWAREClassesFoldershellDeleteSVNcommand] @="cmd.exe /c "TITLE Removing SVN Folders in %1 && COLOR 9A && FOR /r "%1" %%f IN (.svn) DO RD /s /q "%%f" ""保存之后，双击这个reg文件。成功后，在每一个文件夹上点击右键都会有一个“Delete SVN Folders”的选项，点击之后，既可以删除这个文件下下面所有的.svn文件了：
+
+		
+
+		    
+ 中国教育在线·教育人
+

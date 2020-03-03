@@ -1,0 +1,221 @@
+
+    ---
+    layout: post  
+    title:  matlab中需要用到的  
+    date:  2009-01-13 09:45  
+    author: Pickle Cai  
+    categories: EduBlog  
+    keywords: 
+    description:   
+    tags:	pickle   
+    cover:  "/assets/cover.jpeg"  
+
+    ---  
+    
+附1：matlab中的逻辑运算&&、||与&、|的区别
+
+
+
+&&和||被称为&和|的short circuit形式。
+
+
+
+
+
+表达式A&B首先判断A的逻辑值，然后判断B的值，然后进行逻辑与的计算。
+
+
+
+表达式A&&B首先判断A的逻辑值，如果A的值为假，就可以判断整个表达式的值为假，就不需要再判断B的值。
+
+
+
+
+
+这种用法非常有用，如果A是一个计算量较小的函数，B是一个计算量较大的函数，那么首先判断A对减少计算量是有好处的。另外这也可以防止类似被0除的错误。
+
+
+
+ 
+
+
+
+附2：元胞数组函数(Cell array functions)
+
+
+
+
+
+
+
+cell                     创建元胞变量
+
+
+
+celldisp              显示元胞数组内容
+
+
+
+cellfun                元胞数组函数
+
+
+
+cellplot               图示元胞数组的内容
+
+
+
+cell2struct          把元胞数组转换为构架数组
+
+
+
+deal                    把输入分配给输出
+
+
+
+iscell                 若是元胞则为真
+
+
+
+num2cell           把数值数组转换为元胞数组
+
+
+
+struct2cell         把构架数组转换为元胞数组
+
+附3：字符串操作函数
+
+
+
+
+
+
+
+创建
+
+strvcat 创建字符串数组
+
+
+
+
+
+转换
+
+int2str 将整数转换为字符串
+
+mat2str 将数组转换为字符串
+
+num2str 把数值转换为字符串
+
+cellstr将字符串数组转换为单元格数组
+
+str2mat 将字符串转换为含有空格的数组
+
+str2num 将字符串转换为数值
+
+lower(s)   转换小写 
+
+upper(s)   转换大写
+
+
+
+
+
+判断
+
+ischar(s)   判断是否字符串 
+
+isletter(s)   判断是否字母
+
+
+
+
+
+比较
+
+strcmp 比较字符串
+
+strcmp(s1,s2) 比较字符串是否相同
+
+strcmpi 比较字符串（忽略大小写）
+
+strnomp 比较字符串的前N 个字符
+
+strncmp(s1,s2,n) 比较字符串中的前n个字符是否相同
+
+strncmpi 比较字符串的前N 个字符（忽略大小写）
+
+
+
+
+
+搜索
+
+strmatch 逐行搜索串
+
+findstr(s1,s2)  搜索字符串
+
+
+
+
+
+编辑
+
+strrep 用另一个串代替一个串中的子串
+
+strtok 删除串中的指定子串
+
+strrep(s1,s2,s3)  将s1中的字符s2替换为s3
+
+deblank(s)   移除字符串尾部包含的空字符 
+
+
+
+
+
+其他
+
+strjust 字符串的对齐方式
+
+blanks(n)   返回n个空字符
+
+eval(string)   将字符串作为命令执行  
+
+strcat 把多个串连接成长串 
+
+
+
+附4：{}和()的区别
+
+
+
+{}表示细胞元素的内容，()表示细胞元素。
+
+
+
+ 
+
+
+
+例如对于a数组，
+
+
+
+>> a{1,2}
+
+
+
+ans =范传伟
+
+
+
+>> a(1,2)
+
+
+
+ans =     '范传伟'
+
+
+
+		    
+ 中国教育在线·教育人
+
