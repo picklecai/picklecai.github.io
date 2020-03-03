@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  A freshmanish girl!  
+date:  2006-06-30 08:22  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  A freshmanish girl!  
-    date:  2006-06-30 08:22  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 好几天没写东西了!
 

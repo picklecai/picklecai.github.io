@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  FSCommand功能详解  
+date:  2009-06-16 11:47  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  FSCommand功能详解  
-    date:  2009-06-16 11:47  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 fscommand(cmd_string, arg_string) 执行主机端指令。
 

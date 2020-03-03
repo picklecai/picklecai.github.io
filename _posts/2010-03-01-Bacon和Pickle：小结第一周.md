@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  Bacon和Pickle：小结第一周  
+date:  2010-03-01 12:28  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  Bacon和Pickle：小结第一周  
-    date:  2010-03-01 12:28  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 回应Rita Zhou的评论：
 

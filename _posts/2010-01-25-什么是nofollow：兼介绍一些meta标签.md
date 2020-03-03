@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  什么是nofollow：兼介绍一些meta标签  
+date:  2010-01-25 03:32  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  什么是nofollow：兼介绍一些meta标签  
-    date:  2010-01-25 03:32  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 Meta标签即内嵌在你网页中的特殊的html标签，它包含着关于你网页的一些隐藏信息，能让搜索引擎更好地理解你的网站内容的种类。
 

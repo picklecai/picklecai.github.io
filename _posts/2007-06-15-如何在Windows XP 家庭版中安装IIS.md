@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  如何在Windows XP 家庭版中安装IIS  
+date:  2007-06-15 04:52  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  如何在Windows XP 家庭版中安装IIS  
-    date:  2007-06-15 04:52  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 来源：中华电脑书库，http:http://www.pcbookcn.com/article/1872.htm
 

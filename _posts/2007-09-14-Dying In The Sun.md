@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  Dying In The Sun  
+date:  2007-09-14 01:12  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  Dying In The Sun  
-    date:  2007-09-14 01:12  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
  
 

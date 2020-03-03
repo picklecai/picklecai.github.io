@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  Index exceeds matrix dimensions错误  
+date:  2009-01-31 04:10  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  Index exceeds matrix dimensions错误  
-    date:  2009-01-31 04:10  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 for c1=2:m;                     %c数组去除重复且顺序不变
 

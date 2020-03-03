@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  编写ToAdjacency 的困难  
+date:  2009-01-05 09:44  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  编写ToAdjacency 的困难  
-    date:  2009-01-05 09:44  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 From ：长方形表格；
 

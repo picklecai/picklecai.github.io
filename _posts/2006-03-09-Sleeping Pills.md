@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  Sleeping Pills  
+date:  2006-03-09 09:18  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  Sleeping Pills  
-    date:  2006-03-09 09:18  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 Bob was having trouble getting to sleep at night. He went to see his doctor, who prescribed some extra-strong sleeping pills. 
 

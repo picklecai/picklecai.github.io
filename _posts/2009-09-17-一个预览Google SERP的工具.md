@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  一个预览Google SERP的工具  
+date:  2009-09-17 03:25  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  一个预览Google SERP的工具  
-    date:  2009-09-17 03:25  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 从这里发现，http:http://www.searchenginejournal.com/how-to-preview-your-google-serps-listing/11641/
 

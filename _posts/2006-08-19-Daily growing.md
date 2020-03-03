@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  Daily growing  
+date:  2006-08-19 09:33  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  Daily growing  
-    date:  2006-08-19 09:33  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 The trees they grow high, the leaves they do grow green,
 

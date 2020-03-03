@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  不明白nominal, ordinal, and interval 的并称  
+date:  2008-10-21 06:17  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  不明白nominal, ordinal, and interval 的并称  
-    date:  2008-10-21 06:17  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 何为“nominal, ordinal, and interval levels of measurement ”？？？
 

@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  小结失败的presentation  
+date:  2007-10-08 09:42  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  小结失败的presentation  
-    date:  2007-10-08 09:42  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 有些事情的效果，不是它的初始目的。所以对于liuliu的留言，我很不好意思～～～
 

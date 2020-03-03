@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  画图问题：ucinet和netdraw  
+date:  2009-02-20 12:39  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  画图问题：ucinet和netdraw  
-    date:  2009-02-20 12:39  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
 问题之一：
 

@@ -1,16 +1,15 @@
+---
+layout: post  
+title:  Instagram CEO 讲述产品背后的故事：做减法  
+date:  2011-05-24 10:26  
+author: Pickle Cai  
+categories: EduBlog  
+keywords: 
+description:   
+tags:	pickle   
+cover:  "/assets/cover.jpeg"  
 
-    ---
-    layout: post  
-    title:  Instagram CEO 讲述产品背后的故事：做减法  
-    date:  2011-05-24 10:26  
-    author: Pickle Cai  
-    categories: EduBlog  
-    keywords: 
-    description:   
-    tags:	pickle   
-    cover:  "/assets/cover.jpeg"  
-
-    ---  
+---  
     
   不止一位朋友问过 Instagram 的创业故事，刚好它的 CEO Kevin Systrom 在 Quora 上有过一段精彩的描述，现在翻译过来分享给大家。这真是一个典型的“美国创业故事”。 
 
