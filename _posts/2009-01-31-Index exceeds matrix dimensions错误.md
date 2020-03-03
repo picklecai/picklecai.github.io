@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + Index exceeds matrix dimensions错误  + '"'
-date:  2009-01-31 04:10 + ":00" 
+title:  "Index exceeds matrix dimensions错误"
+date:  2009-01-31 04:10:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 for c1=2:m;                     %c数组去除重复且顺序不变
 
     for c2=1:c1-1;
@@ -180,5 +180,3 @@ Error in ==> ToAdjcency at 25
 
 
 		    
- 中国教育在线·教育人
-

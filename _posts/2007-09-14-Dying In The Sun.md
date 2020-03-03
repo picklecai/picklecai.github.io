@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + Dying In The Sun  + '"'
-date:  2007-09-14 01:12 + ":00" 
+title:  "Dying In The Sun"
+date:  2007-09-14 01:12:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
  
 
 
@@ -242,5 +242,3 @@ Like dying ……
 
 
 		    
- 中国教育在线·教育人
-

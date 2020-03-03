@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + Google URL 语法  + '"'
-date:  2009-10-21 05:51 + ":00" 
+title:  "Google URL 语法"
+date:  2009-10-21 05:51:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 每个Google查询都可以用一个URL来指向搜索结果页面。Google的搜索结果页面不是静态的，而是在你点击Search（搜索）按钮或者打开一个链接到结果页面的URL时动态创建的。
 
 
@@ -166,5 +166,3 @@ hl语言域的值
  
 
 		    
- 中国教育在线·教育人
-

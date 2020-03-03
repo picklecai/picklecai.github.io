@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + 编写ToAdjacency 的困难  + '"'
-date:  2009-01-05 09:44 + ":00" 
+title:  "编写ToAdjacency 的困难"
+date:  2009-01-05 09:44:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 From ：长方形表格；
 
 
@@ -110,5 +110,3 @@ end
 判断元素已出现，拟将原有元素另列数组，然后读取数据时与另列的数组作比较，若出现相同则出现过。但是~strcmp似乎根本就通不过调试。怎么办？
 
 		    
- 中国教育在线·教育人
-

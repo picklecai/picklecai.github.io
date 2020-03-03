@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + 重读Brad Callen，5条最新seo心得  + '"'
-date:  2009-11-26 05:44 + ":00" 
+title:  "重读Brad Callen，5条最新seo心得"
+date:  2009-11-26 05:44:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 今天把Brad Callen的邮件拿出来细读了一番，大概的内容跟那本电子书《seo made it easy》差不多。多了这样一些认知：
 
 
@@ -42,5 +42,3 @@ cover:  "/assets/cover.jpeg"
 
 
 		    
- 中国教育在线·教育人
-

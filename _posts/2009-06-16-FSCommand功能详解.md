@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + FSCommand功能详解  + '"'
-date:  2009-06-16 11:47 + ":00" 
+title:  "FSCommand功能详解"
+date:  2009-06-16 11:47:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 fscommand(cmd_string, arg_string) 执行主机端指令。
 
 
@@ -44,5 +44,3 @@ FlashPlayer的指令有（只能在独立播放器时使用）：
 
 
 		    
- 中国教育在线·教育人
-

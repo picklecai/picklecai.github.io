@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + 会用sumif和sumifs了  + '"'
-date:  2009-08-26 11:53 + ":00" 
+title:  "会用sumif和sumifs了"
+date:  2009-08-26 11:53:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 原文是COUNTIFS($M$6:$M$2001,">=" & $AV14,$M$6:$M$2001,"单元格列中，只允许1或0的存在。所以只要countifs来计数一下即可。
 
 
@@ -52,5 +52,3 @@ sum_range自然是求和的目标列，criteria_range1是条件数据列，crite
 
 
 		    
- 中国教育在线·教育人
-

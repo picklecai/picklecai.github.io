@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + 如何用MATLAB读取EXCEL中的矩阵？  + '"'
-date:  2009-02-11 02:49 + ":00" 
+title:  "如何用MATLAB读取EXCEL中的矩阵？"
+date:  2009-02-11 02:49:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 
 
 打开Matlab后，使用open打开你要的文件的文件夹，在下拉框中显示所有文件，然后选中你要的EXCEL文件就好了。如果EXCEL有几张工作表的话，可能会出错，应该保留一个工作表就可以，也不必重命名了，命名有大小写之分。 
@@ -26,5 +26,3 @@ help xlsread，还可以考虑exlink
 
 
 		    
- 中国教育在线·教育人
-

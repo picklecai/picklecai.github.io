@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + 画图问题：ucinet和netdraw  + '"'
-date:  2009-02-20 12:39 + ":00" 
+title:  "画图问题：ucinet和netdraw"
+date:  2009-02-20 12:39:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 问题之一：
 
 
@@ -32,5 +32,3 @@ b1998开始就已经复制不全面，所以netdraw画出来的图才那么奇�
 
 
 		    
- 中国教育在线·教育人
-

@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + Social bookmarks  + '"'
-date:  2009-09-16 03:25 + ":00" 
+title:  "Social bookmarks"
+date:  2009-09-16 03:25:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 按：这些书签也玩了有一段时间了。不过还是有些不明所以。这里转一篇，还是07年的文，寄存着。
 
 
@@ -108,5 +108,3 @@ Social Bookmark，社会化书签，可以将网站随时加入自己的网络�
 
 
 		    
- 中国教育在线·教育人
-

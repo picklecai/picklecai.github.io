@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + 不明白nominal, ordinal, and interval 的并称  + '"'
-date:  2008-10-21 06:17 + ":00" 
+title:  "不明白nominal, ordinal, and interval 的并称"
+date:  2008-10-21 06:17:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 何为“nominal, ordinal, and interval levels of measurement ”？？？
 
 
@@ -80,5 +80,3 @@ Interval scales (定距尺度) 和 ratio scales (定比尺度) 是 continuous sc
 
 
 		    
- 中国教育在线·教育人
-

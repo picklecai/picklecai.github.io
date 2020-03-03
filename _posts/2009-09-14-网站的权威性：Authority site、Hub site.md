@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + 网站的权威性：Authority site、Hub site  + '"'
-date:  2009-09-14 02:11 + ":00" 
+title:  "网站的权威性：Authority site、Hub site"
+date:  2009-09-14 02:11:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 本文介绍的Authority site和Hub site与网站链接相关，是搜索引擎优化（尤其针对google优化）中比较重要的术语。 
 
 Authority site（权威网站） 
@@ -46,5 +46,3 @@ Hub site（集线器网站）
 
 
 		    
- 中国教育在线·教育人
-

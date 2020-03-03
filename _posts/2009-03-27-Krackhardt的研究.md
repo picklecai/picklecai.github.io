@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + Krackhardt的研究  + '"'
-date:  2009-03-27 09:10 + ":00" 
+title:  "Krackhardt的研究"
+date:  2009-03-27 09:10:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 图论有助于我们理解网络图中体现的特定社会系统的格局状况、组织的机械程度、组织的有效性以及解决冲突的难易度等方面。
 
 
@@ -104,5 +104,3 @@ Krackhardt（1994）的一项研究，从图论角度（将图论用于描绘和
 
 
 		    
- 中国教育在线·教育人
-

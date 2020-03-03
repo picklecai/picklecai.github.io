@@ -1,16 +1,16 @@
 ---
 layout: post  
-title:  '"' + Stephanie says——初次接触  + '"'
-date:  2007-09-04 10:53 + ":00" 
+title:  "Stephanie says——初次接触"
+date:  2007-09-04 10:53:00
 author: Pickle Cai  
 categories: EduBlog  
 keywords: 
 description:   
 tags:	pickle   
-cover:  "/assets/cover.jpeg"  
+cover:  "/assets/cover.jpg"  
 
----  
-    
+---
+
 　　 听上去用“慵懒”可以形容，不料歌词如此地灰暗，可用“shenren”来形容，于是试着翻了一下，还是翻不好，不知是不是有背景的歌。但是又听说Lady＆Bird还唱了《suicide is painless》（自杀无痛）这样的歌，总不大对头的风格。
 
 
@@ -262,5 +262,3 @@ It's so cold in Alaska
 阿拉斯加多冷啊
 
 		    
- 中国教育在线·教育人
-
