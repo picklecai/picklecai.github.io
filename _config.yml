@@ -37,6 +37,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
+disqus: true
 disqus_shortname: picklecai
 
 # Google analytics
